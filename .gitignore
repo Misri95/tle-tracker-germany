@@ -1,26 +1,38 @@
-# Byte-compiled / optimized / DLL files
+# 🐍 Python bytecode
 __pycache__/
 *.py[cod]
 *.so
 
-# Distribution / packaging
+# 📦 Virtual environments
+.venv/
+venv/
+
+# 📂 Build / packaging
 build/
 dist/
 .eggs/
 *.egg-info/
 
-# Virtual environments
-.venv/
-venv/
-
-# Notebooks
+# 📓 Notebooks
 .ipynb_checkpoints/
 
-# Data
-*.csv
+# ⚙️ IDEs
+.vscode/
+.idea/
+
+# 📊 Local data (OK to remove, but keep structure)
+data/raw/
+data/output/
+!data/output/.gitkeep
+!data/raw/.gitkeep
+
+# ✅ Keep processed CSVs under version control
+# data/processed/*.csv  ← commented out to allow tracking
+
+# 🧪 Local SQLite databases (temporary)
 *.sqlite
 *.sqlite3
 
-# IDEs
-.vscode/
-.idea/
+# 🔐 Credentials (optional)
+.env
+
