@@ -1,4 +1,8 @@
-﻿# 🛰️ TLE Satellite Tracker — DLR/ESA Missions
+![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-complete-brightgreen.svg)
+
+# 🛰️ TLE Satellite Tracker — DLR/ESA Missions
 
 This Python project tracks real-time orbital positions of scientific satellites using public TLE data (CelesTrak), focused on ESA/DLR missions like POLAR, ODIN, SWIFT, and more.
 
