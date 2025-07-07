@@ -1,4 +1,4 @@
-﻿[![Streamlit App](https://img.shields.io/badge/Launch-Dashboard-ff4b4b?logo=streamlit&logoColor=white)](https://misri95-tle-tracker-germany-app-xpn1il.streamlit.app/)
+﻿[Streamlit App](https://img.shields.io/badge/Launch-Dashboard-ff4b4b?logo=streamlit&logoColor=white)](https://misri95-tle-tracker-germany-app-xpn1il.streamlit.app/)
 
 ## 🖥️ Streamlit Dashboard Preview
 ![Preview](data/output/dashboard_preview.png)
